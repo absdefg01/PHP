@@ -1,0 +1,21 @@
+Pour ajouter medecin URL : http://r-info-nacre/~zhm0566a/Cabinet/ajoutMedecin.php
+Pour ajouter Rdv URL : http://r-info-nacre/~zhm0566a/Cabinet/ajoutRdv.php
+Pour ajouter Usager URL : http://r-info-nacre/~zhm0566a/Cabinet/ajoutUsager.php
+
+Pour modification medecin : http://r-info-nacre/~zhm0566a/Cabinet/modificationMedecin.php
+Pour modification Rdv : http://r-info-nacre/~zhm0566a/Cabinet/modificationRdv.php
+Pour modification Usager : http://r-info-nacre/~zhm0566a/Cabinet/modificationUsager.php
+
+Pour supprimer medecin : http://r-info-nacre/~zhm0566a/Cabinet/supprimerMedecin.php
+Pour supprimer Rdv : http://r-info-nacre/~zhm0566a/Cabinet/supprimerRdv.php
+Pour supprimer Usager : http://r-info-nacre/~zhm0566a/Cabinet/supprimerUsager.php
+
+Pour saisir medecin URL : http://r-info-nacre/~zhm0566a/Cabinet/saisieMedecin.html
+Pour saisir usager URL : http://r-info-nacre/~zhm0566a/Cabinet/saisieUsager.html
+Pour saisir Rdv URL : http://r-info-nacre/~zhm0566a/Cabinet/saisieRdv.php
+
+
+identifiant : zhm0566a
+mot de passe : GdkypF
+
+Les tableaux dans la base de données que j'ai utilisés sont Medecin, Rdv et Usager. J'ai oublié de supprimer les 3 autres tableau.
